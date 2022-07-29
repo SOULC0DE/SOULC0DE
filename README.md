@@ -11,7 +11,7 @@ Some things about me:
 - I can code in Lua, JSON and I'm still learning Haxe
 - I can draw stuff, mostly for FNF Mods
 - I play a lot of Super Mario 64
-- I'm 15yo (going to be 16yo at 04/08)
+- I'm 15yo (going to be 16yo in 04/08)
 
 ## Social Media smh
 - [twitter](https://twitter.com/AquaStrikr_)
