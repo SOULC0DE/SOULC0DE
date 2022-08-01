@@ -15,7 +15,9 @@ Some things about me:
 
 ## Social Media smh
 - [twitter](https://twitter.com/AquaStrikr_)
+- [gamejolt](https://gamejolt.com/@AquaStrikr_)
 - [newgrounds](https://daaquastrikr.newgrounds.com)
+- [gamebanana](https://gamebanana.com/members/1978098)
 - [discord server](https://discord.gg/qrngmWvxzP)  
 
 ##### amogus
