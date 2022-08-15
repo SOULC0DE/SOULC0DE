@@ -1,5 +1,5 @@
 # AquaStrikr
-Working in some FNF Mods and the Middest Programmer/Artist to ever exist, currently teaching [@MibsfihaXD](https://github.com/MibsfihaXD) how to program
+Working in some Friday Night Funkin' Mods and the Middest Programmer/Artist to ever exist, currently teaching [@MibsfihaXD](https://github.com/MibsfihaXD) how to program
 
 
 
@@ -8,16 +8,17 @@ Working in some FNF Mods and the Middest Programmer/Artist to ever exist, curren
 
 
 Some things about me:
-- I can code in Lua, JSON and I'm still learning Haxe
+- I'm 16 years old, my b-day is 04/08
+- I can code in Lua and Haxe, currently learning C#, C++ and Dart
 - I can draw stuff, mostly for FNF Mods
 - I play a lot of Super Mario 64
-- I'm 16yo
 
 ## Social Media smh
-- [twitter](https://twitter.com/AquaStrikr_)
-- [gamejolt](https://gamejolt.com/@AquaStrikr_)
-- [newgrounds](https://daaquastrikr.newgrounds.com)
-- [gamebanana](https://gamebanana.com/members/1978098)
-- [discord server](https://discord.gg/qrngmWvxzP)  
+- [Twitter](https://twitter.com/AquaStrikr_)
+- [Gamejolt](https://gamejolt.com/@AquaStrikr_)
+- [Newgrounds](https://daaquastrikr.newgrounds.com)
+- [Gamebanana](https://gamebanana.com/members/1978098)
+- [Discord Server](https://discord.gg/qrngmWvxzP)  
+- [Friday Night Fan Site](https://fnfansite.editorx.io/fridaynightfansite/profile/aquastrikr/profile)
 
 ##### amogus
