@@ -10,7 +10,7 @@ Working in some Friday Night Funkin' Mods and the Middest Programmer/Artist to e
 Some things about me:
 - I'm 16 years old, my b-day is 04/08
 - I can code in Lua and Haxe, currently learning C#, C++ and Dart
-- I can draw/animate0 stuff, mostly for FNF Mods
+- I can draw/animate stuff, mostly for FNF Mods
 - I play a lot of Super Mario 64
 
 ## Social Media smh
