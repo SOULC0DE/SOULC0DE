@@ -9,7 +9,7 @@ Working in some Friday Night Funkin' Mods and the Middest Programmer/Artist to e
 
 Some things about me:
 - I'm 16 years old, my b-day is 04/08
-- I nake doodles, sketches, designs and icons :P
+- I doodle, sketch, make designs and icons :P
 - I can code in Lua, Haxe and Dart, currently learning C, C#, C++ and JavaScript
 - I play a lot of Super Mario 64, Megaman X6 and Final Fantasy VII
 
