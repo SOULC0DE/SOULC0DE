@@ -24,8 +24,9 @@ Not much, if I can be honest, most of them are just art lol
 
 
 ### [Forever Engine Underscore](https://github.com/BeastlyGhost/Forever-Engine-Underscore)
-- [@NoobZiiTo](https://github.com/NoobZiiTo)'s credit icon
-- Readme's Logo
+- Logo
+- Credit icons
+- Loading Screen
 
 
 
