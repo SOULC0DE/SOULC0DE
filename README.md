@@ -1,5 +1,5 @@
 # SOULC0DE
-***I AM NOT ZIBIDI***
+***I AM NOT ZIBIDI GRAAHHH***
 
 Working in some Friday Night Funkin' Mods and the Middest Programmer/Artist to ever exist, currently teaching [@MibsfihaXD](https://github.com/MibsfihaXD) how to program
 
