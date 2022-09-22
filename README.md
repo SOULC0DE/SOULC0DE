@@ -1,5 +1,5 @@
 # SOULC0DE
-***Average "I like Gohan" Person***
+***I AM NOT ZIBIDI***
 
 Working in some Friday Night Funkin' Mods and the Middest Programmer/Artist to ever exist, currently teaching [@MibsfihaXD](https://github.com/MibsfihaXD) how to program
 
