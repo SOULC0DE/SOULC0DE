@@ -1,5 +1,1 @@
-i work on fnf mods
-
-
-follow me on Newgrounds
-[https://soulc0de.newgrounds.com](https://soulc0de.newgrounds.com)
+the desire of the death is bigger than my will to keep breathing
